@@ -24,7 +24,8 @@
 				 if (j % 2 == 0)
 					 printf(" ");
 				 if (j < size)
-					 printf("%.2x"' *(b +j));
+					 printf("%.2x"' *(b + j));
+			 }
 				 else
 					 print(" ")
 			 }
