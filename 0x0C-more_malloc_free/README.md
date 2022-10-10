@@ -4,7 +4,7 @@
  <div>
   <ul>
     <li><a href="https://github.com/mhzcee/Alx-low_level_programming/blob/master/0x0C-more_malloc_free/main.h">main.h</li>
-    <li><a href="https://github.com/mhzcee/Alx-low_level_programming/blob/master/0x0C-more_malloc_free/0-malloc_checked.c">A a function that allocates memory using malloc.</a></li>
+    <li><a href="https://github.com/mhzcee/Alx-low_level_programming/blob/master/0x0C-more_malloc_free/0-malloc_checked.c">A function that allocates memory using malloc.</a></li>
     <li><a href="https://github.com/mhzcee/Alx-low_level_programming/blob/master/0x0C-more_malloc_free/1-string_nconcat.c">A function that concatenates two strings.</li>
     <li><a href="https://github.com/mhzcee/Alx-low_level_programming/blob/master/0x0C-more_malloc_free/2-calloc.c">A function that allocates memory for an array, using malloc.</li>
     <li><a href="https://github.com/mhzcee/Alx-low_level_programming/blob/master/0x0C-more_malloc_free/3-array_range.c">A function that creates an array of integers.</li>
